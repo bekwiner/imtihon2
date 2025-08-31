@@ -24,6 +24,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+https://drawsql.app/teams/beka-5/diagrams/bekzod-2  -- drow sql
 
 ## Project setup
 
